@@ -9,7 +9,7 @@
 
 | Project | Desc | Remark | Role |
 |------|---|---|----|
-| <img src="sum_nail.png" width="24px" height="24px" /> [SumNail](https://github.com/Sum-nail/sum-nail-server) |  | | Server Developer ( Spring ) |
+| <img src="sumnail.png" width="24px" height="24px" /> [SumNail](https://github.com/Sum-nail/sum-nail-server) |  | | Server Developer ( Spring ) |
 | <img src="BeachCombing.png" width="24px" height="24px" /> [BeachCombing](https://github.com/Beachcombing/beachcombing-backend) | AI로 분석하는 해양환경봉사 기록 서비스 | 졸업 프로젝트 우수상 | Server Developer ( Spring ) |
 | <img src="iluvit.png" width="24px" height="24px" /> [아이러빗](https://github.com/dltjdn/iluvit-backend) | 어린이집/유치원 정보 모두 모아 보고싶다면? |[![play store badge](http://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=google-play&link=https://play.google.com/store/apps/details)](https://play.google.com/store/apps/details?id=com.iluvit.app&hl=ko-KR) [![app store badge](http://img.shields.io/badge/App%20Store-0D96F6?logoColor=white&style=flat-square&logo=appstore)](https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%9F%AC%EB%B9%97/id6450625509)| Server Developer ( Spring ) |
 | <img src="zooc.png" width="24px" height="24px"/> [Zooc](https://github.com/TeamZOOC/ZOOC-SERVER)| 가족이 기록한 반려동물과의 순간들을 쭉- 추억하는 서비스, ZOOC | [![app store badge](http://img.shields.io/badge/App%20Store-0D96F6?logoColor=white&style=flat-square&logo=appstore&link=https://apps.apple.com/us/app/havit/id1607518014)](https://apps.apple.com/kr/app/zooc/id1669547675) | Server Developer ( Node.js ) |

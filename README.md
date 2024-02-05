@@ -19,7 +19,7 @@
 ### Experience
 
 > 2023
-* [학교현장실습 Fisolution](http://www.fisolution.co.kr/index#SOFTWARE) Backend Engineer
+* [Fisolution](http://www.fisolution.co.kr/index#SOFTWARE) Backend Engineer
 
 > 2022
 * [SOPT](https://www.sopt.org/) 31th Server OB, 운영팀 (2022.10 ~ 2023.1)

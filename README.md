@@ -4,10 +4,6 @@
 ### Link
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=devDiary&theme=tistory)](https://seowoolog.tistory.com/)
 
-### 이력서
-[이서우_이력서.pdf](https://github.com/dltjdn/dltjdn/files/15147879/_.pdf)
-
-
 ### Projects
 
 | Project | Desc | Remark | Role |

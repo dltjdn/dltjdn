@@ -1,8 +1,8 @@
-### Seowoo Lee
-> Hongik University, Computer Engineering
 
 ### Link
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=devDiary&theme=tistory)](https://seowoolog.tistory.com/)
+
+[이력서] 
 
 ### Projects
 

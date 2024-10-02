@@ -1,7 +1,6 @@
 ### Link
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=devDiary&theme=tistory)](https://seowoolog.tistory.com/)
 <br>
-[이력서] [이력서_Blind.pdf](https://github.com/user-attachments/files/16884637/_Blind.pdf)
 
 
 
